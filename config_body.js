@@ -55,7 +55,7 @@ var Promotions = [
         image: 'https://ucf3fd058710ebdd242ac2db0301.previews.dropboxusercontent.com/p/thumb/ABCS8Mp4QFVXC64oHZYyhz0YV-rySBRqnjpsHVlOC6t_eB_JmwEIU3pXpjDlN-J8CdyABPGf2AZgsvUYaJJH9TNbaJqoKnheUq5OxUv6_n0lzRroADu_enLRgS-4fW4CtDRsEq1Ow5HgLfQLoH6bDOuljosv02HGrZgMutpexIqtNjSLgsDPyq3_fz4CkTNuc_jc4lK_tCO2JSZTKfIxvCZA_nuX4uaJmcLWgRfmCvJXnxsupHbGDKduY-sapTsayFQO9Qxsu_TBRl05CYkCRAUYRqxXErCk3jmPMeVtjtsudnwKt8JRUxJ5ShJazd-iwOai5ehnZc98m7uuIvdes_gD4JJh-S6iwLnSKg_2Zdl_5m09dVArc2DUQ3T5FjylIuE_FxUhwCV6xqq_1kXa8VG65n5vw20RQUUdvTtfXhOmwVRwGK_1YTkS93-hdHcobGn2kMsNYGcW9J_KFwSJMjzo_nPabQV8n1u069tgMAVfdg/p.jpeg?size=178x178&size_mode=1'
     }
     {
-        title: "CR\u00c9MES MAINS",
+        title: "CREMES MAINS",
         buttonText: "Shop Now",
         link: 'Transactions/scope_items/3f26ad66-86f7-4661-bd86-6f9c35e684d6?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22e3c559be-8581-4313-9095-cb5c113c3564%5C%22%7D%22&TopPadding=0&SmartSearch=%5B%7B%22ApiName%22:%22ItemMainCategory%22,%22ComparisonType%22:%22Values%22,%22Values%22:%5B%22Beauty%20%26%20Make%20Up%22%5D%7D%5D',
         image: 'https://uce895097c8d466d39855b7dffe9.previews.dropboxusercontent.com/p/thumb/ABAU0JO9Z0DeivRjVLVOUSuJCvIhBgJdexdVA40HvNucGh9UDocfXCUXGZOMDb9mQ0AOYS3tBMBwyIO0e8oD2K3S9oI_PcJr8CvOTQHJAAy3PB-7rDrNPJXcZa1jcR604FCbsK-xl52VUlCvPWVti7EoiT_UIu8PCgbISK1hU0ODP73JRBICrTgqjHTTEjTivqtP3vO61_gMBr53y0gaCsZOnt--X5dWQY-Mn1ItOKZwWunPZt2BnxB34aA_C59T9nh0zKBxYDpn9KvowTipwwjBxhiRnJl7mUb0ne9Ouh_AgxDPI72f_5BFPWAHCS4LGhn8Tv4ZmXuYS5Q-CYdtfpV1-BrJbbOJr-8x4XuhJU-JSiqm66EA_VdBk1597A2m7_uoyfc24NnyPhuDBtuBv9DlZKliUJ7lSeDefEnLEFisHOR6dmq8EjdCi5lw4A4pSfovA5JJjzKtO2Zh00XvMKrC7_2h5xXuaHVj_KpWcrd8og/p.png?size=178x178&size_mode=1'
