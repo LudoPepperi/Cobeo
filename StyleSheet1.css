@@ -705,7 +705,7 @@ button {
 
 #categories {
     -ms-grid-row: 1;
-    -ms-grid-column: 1;
+    -ms-grid-column: 1 / 2 / 3 / 4;
     grid-area: categories;
     display: -ms-grid;
     display: grid;
