@@ -708,14 +708,14 @@ button {
     -ms-grid-column: 1;
     grid-area: categories;
     display: -ms-grid;
-    display: grid;
+    display: inline;
     -ms-grid-columns: 2fr minmax(10rem, 1fr);
     grid-template-columns: 2fr minmax(10rem, 1fr);
     grid-gap: 2rem;
 }
 
 @media screen and (max-width: 768px) {
-    #categories2 {
+    #categories {
         margin: 0 1.5rem 1.5rem 1.5rem;
         grid-gap: 1.5rem;
     }
