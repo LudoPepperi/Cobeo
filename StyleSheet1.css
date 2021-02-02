@@ -829,6 +829,20 @@ button {
     position: relative;
     background-color: white;
     cursor: pointer;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (1fr)[4];
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+}
+}
+
+    .promotion .gard-overlay {
+        background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-color: white;
+    cursor: pointer;
     -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04), 0 4px 8px rgba(0, 0, 0, 0.06), 0 8px 16px rgba(0, 0, 0, 0.08);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04), 0 4px 8px rgba(0, 0, 0, 0.06), 0 8px 16px rgba(0, 0, 0, 0.08);
     border-radius: 4px;
@@ -837,29 +851,7 @@ button {
     transition: box-shadow ease-in-out 0.35s;
     transition: box-shadow ease-in-out 0.35s, -webkit-box-shadow ease-in-out 0.35s;
     background-size: cover;
-    margin-bottom: 1rem;
-    height: 12rem;
-}
-
-    .promotion .gard-overlay {
-        border-radius: 4px;
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 80%);
-        padding: 1rem;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-        flex-direction: row;
-        -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-        justify-content: space-between;
+    min-height: 8rem;
     }
 
     .promotion:hover {
