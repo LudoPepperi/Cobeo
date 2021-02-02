@@ -796,7 +796,7 @@ button {
 #categories {
     -ms-grid-row: 1;
     -ms-grid-column: auto;
-    grid-area: 2 / 2;
+    grid-area: categories;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 2fr minmax(10rem, 1fr);
