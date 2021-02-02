@@ -781,8 +781,8 @@ button {
     }
 
     .promotion div {
-        -ms-flex-item-align: end;
-        align-self: flex-end;
+        -ms-flex-item-align: stretch;
+        align-self: stretch;
     }
 
 :root {
