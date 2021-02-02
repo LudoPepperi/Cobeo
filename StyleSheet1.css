@@ -794,9 +794,9 @@ button {
     }
 
 #categories {
-    -ms-grid-row: auto;
+    -ms-grid-row: 1;
     -ms-grid-column: auto;
-    grid-area: 1 / 2;
+    grid-area: 2 / 2;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 2fr minmax(10rem, 1fr);
@@ -844,7 +844,7 @@ button {
 
     .promotion .gard-overlay {
         border-radius: 4px;
-        position: relative;
+        position: absolute;
         top: 0;
         bottom: 0;
         left: 0;
@@ -854,7 +854,7 @@ button {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
-        -webkit-box-orient: vertical;
+        -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
         -ms-flex-direction: row;
         flex-direction: row;
