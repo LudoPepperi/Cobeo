@@ -704,8 +704,8 @@ button {
 }
 
 #categories {
-    -ms-grid-row: 1;
-    -ms-grid-column: 4;
+    -ms-grid-row: 2;
+    -ms-grid-column: 1;
     grid-area: categories;
     display: -ms-grid;
     display: grid;
