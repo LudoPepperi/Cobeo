@@ -727,8 +727,8 @@ button {
     }
 
     #categories {
-        -ms-grid-columns: 1fr;
-        grid-template-columns: 1fr;
+        -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
         margin: 0 1rem 1rem 1rem;
     }
 }
@@ -784,6 +784,7 @@ button {
         -ms-flex-item-align: stretch;
         align-self: stretch;
     }
+
 
 :root {
     --header-height: 64px;
