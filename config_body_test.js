@@ -69,7 +69,7 @@ var Promotions4 = [
     {
         title: "CR\u00c8MES MAINS",
         buttonText: "Cliquez ici",
-        link: 'Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"JsonFilter%5C":%5C"5332e389-e1f9-421e-bc33-689bdfbca16c%5C",%5C"Parent%5C":%5C"%7B%5C%5C%5C"DynamicFilter%5C%5C%5C":%5C%5C%5C"Item.MainCategory%5C%5C%5C",%5C%5C%5C"Value%5C%5C%5C":%5C%5C%5C"CROISIERE%20CELANDON%20-%20THE%20VERT%20JASMIN%5C%5C%5C"%7D%5C"%7D"&TopPadding=0&SearchString=&SearchAll=false',
+        link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%2202837f2a-b9c3-4bbd-a455-5c090d211c89%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2299207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
         image: 'https://ludopepperi.github.io/test/P1140485-LIGHT.png'
     }
 ]
