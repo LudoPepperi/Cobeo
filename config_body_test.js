@@ -7,7 +7,7 @@ var blocks_config = {
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
-        text: "Point",
+        text: "Programme fidélité :",
         field: "InternalID",
         measure_unit: "Points",
         svg: "https://storage.pepperi.com/General/Icons/balance.svg"
