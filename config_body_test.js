@@ -2,7 +2,7 @@
 var Catalog = 'B2B'
 var blocks_config = {
     'free_shipping': {
-        text: "Frais de port offert \u00e0 partir de 200\u20ac d'achat",
+        text: "Frais de port offert \u00e0 partir de 200\u20ac HT d'achat",
         field: "",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
