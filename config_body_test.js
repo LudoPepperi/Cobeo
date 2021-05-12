@@ -4,6 +4,7 @@ var blocks_config = {
     'free_shipping': {
         text: "Frais de port offert à partir de ",
         field: "TSAFRANCO",
+        measure_unit: "\u20ac",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
