@@ -1,6 +1,6 @@
-var Transaction = 'Commande B2B';
-var Catalog = 'B2B'
-const logo = 'https://baijashop.com/img/baija-shop-logo-1549555162.jpg'
+var Transaction = 'Commande FR';
+var Catalog = 'Catalog Buyers'
+const logo = 'https://ludopepperi.github.io/Corbeo/CorbeoLogo.svg'
 const LeftMenu = [
 
 
@@ -8,8 +8,8 @@ const LeftMenu = [
 const RightMenu = [
 
     {
-        catalog: "B2B",
-        transaction: "Commande B2B",
+        catalog: "Catalog Buyers",
+        transaction: "Commande FR",
         title: "",
         icon: `          
 	<svg class="end-icon" xmlns="http://www.w3.org/2000/svg" style="width:24px !important;height:24px !important" viewBox="0 0 24 24">
@@ -20,8 +20,8 @@ const RightMenu = [
         deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%227142a6f9-af48-4dba-a30d-85d89b2ed083%5C%22%7D%22'
     },
     {
-        catalog: "B2B",
-        transaction: "Commande B2B",
+        catalog: "Catalog Buyers",
+        transaction: "Commande FR",
         title: "Commande",
         action: "createNewTransaction",
         deepLink: '/Transactions/scope_items/{{UUID}}'
@@ -34,12 +34,6 @@ const RightMenu = [
     {
         activity: "Mes contacts",
         title: "Mes Contacts",
-        action: "createNewActivity",
-        deepLink: 'activities/details/{{UUID}}'
-    },
-    {
-        activity: "Nous contacter",
-        title: "Nous contacter",
         action: "createNewActivity",
         deepLink: 'activities/details/{{UUID}}'
     },
