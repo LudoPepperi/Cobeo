@@ -2,7 +2,7 @@
 var Catalog = 'B2B'
 var blocks_config = {
     'free_shipping': {
-        text: "Frais de port offert \u00e0 partir de 200\u20ac HT d'achat",
+        text: "Frais de port offert \u00e0 partir de "+TSAFRANCO+"\u20ac HT d'achat",
         field: "",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
@@ -43,34 +43,34 @@ var Brands = [
 //Promotions block
 var Promotions = [
     {
-        title: "MOANA",
+        title: "Titre 1",
         buttonText: "Cliquez ici",
         link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2299207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
-        image: 'https://ludopepperi.github.io/test/MOANA.jpg'
+        image: 'https://ludopepperi.github.io/Corbeo'
     }
     ]
 var Promotions2 = [
     {
-        title: "DELIRIUM FLORAL",
+        title: "Titre 2",
         buttonText: "Cliquez ici",
         link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%221fed1213-9371-4267-8e07-c83c56b057e1%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
-        image: 'https://ludopepperi.github.io/test/delirium floral home.png'
+        image: 'https://ludopepperi.github.io/Corbeo'
     }
     ]
 var Promotions3 = [    
     {
-        title: "EAUX DE PARFUM",
+        title: "Titre 3",
         buttonText: "Cliquez ici",
         link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2209fd1d0b-e9f8-414f-9c10-e3e4b72049ee%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
-        image: 'https://ludopepperi.github.io/test/Présentoir eau parfums.png'
+        image: 'https://ludopepperi.github.io/Corbeo'
     }
     ]
 var Promotions4 = [
     {
-        title: "CR\u00c8MES MAINS",
+        title: "Titre 4",
         buttonText: "Cliquez ici",
         link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%2202837f2a-b9c3-4bbd-a455-5c090d211c89%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2299207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
-        image: 'https://ludopepperi.github.io/test/P1140485-LIGHT.png'
+        image: 'https://ludopepperi.github.io/Corbeo'
     }
 ]
 
@@ -78,7 +78,7 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/bainetnature/1.BANNIÈRE.png',
+        imageURL: 'https://ludopepperi.github.io/Corbeo',
         description: '',
         buttonText: '',
         time: 5000,
@@ -87,7 +87,7 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/test/2.BANNIÈRE.png ',
+        imageURL: 'https://ludopepperi.github.io/Corbeo ',
         description: '',
         buttonText: '',
         time: 5000,
@@ -96,7 +96,7 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/test/3.BANNIÈRE.png',
+        imageURL: 'https://ludopepperi.github.io/Corbeo',
         description: '',
         buttonText: '',
         time: 5000,
@@ -105,7 +105,7 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/test/4.BANNIERE.png',
+        imageURL: 'https://ludopepperi.github.io/Corbeo',
         description: '',
         buttonText: '',
         time: 5000,
