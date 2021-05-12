@@ -1,5 +1,5 @@
-﻿var Transaction = 'Commande B2B';
-var Catalog = 'B2B'
+var Transaction = 'Commande FR';
+var Catalog = 'Catalog Buyers';
 var blocks_config = {
     'free_shipping': {
         text: "",
