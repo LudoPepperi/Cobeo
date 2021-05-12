@@ -1,6 +1,6 @@
 var Transaction = 'Commande FR';
-var Catalog = 'Catalog Buyers'
-const logo = 'https://ludopepperi.github.io/Corbeo/CorbeoLogo.svg'
+var Catalog = 'Catalog Buyers';
+const logo = 'https://ludopepperi.github.io/Corbeo/CorbeoLogo.svg';
 const LeftMenu = [
 
 
@@ -39,7 +39,7 @@ const RightMenu = [
     },
 
 
-]
+];
 /*actions:
 
 setUUIDandNav
