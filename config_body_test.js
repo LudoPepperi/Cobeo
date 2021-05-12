@@ -29,12 +29,6 @@ var blocks_config = {
             measure_unit: "\u20ac"
         }]
     }
-    ,
-    'submitted_orders': {
-        name: "Derni\u00e9re commande",
-        statuses: ["2"],
-        table: ["ActionDateTime", "InternalID"]
-    }
 }
 var Brands = [
     
