@@ -7,9 +7,9 @@ var blocks_config = {
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
-        text: "Programme Fidélité :",
-        field: "TSAFrancoCalcul",
-        measure_unit: "Points",
+        text: "Choix Texte",
+        field: "",
+        measure_unit: "choix unité",
         svg: "https://storage.pepperi.com/General/Icons/balance.svg"
     },
     'active-order':
