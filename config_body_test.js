@@ -1,8 +1,7 @@
 var Transaction = 'Commande FR';
 var Catalog = 'Catalog Buyers';
-var Franco = "TSAFRANCO"/1000000;
+var Franco = ('TSAFRANCO'/1000000);
 var blocks_config = {
-
     'free_shipping': {
         text: "Frais de port offert à partir de ",
         field: Franco,
