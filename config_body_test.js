@@ -1,10 +1,9 @@
 var Transaction = 'Commande FR';
 var Catalog = 'Catalog Buyers';
-var Franco = ('TSAFRANCO'/1000000);
 var blocks_config = {
     'free_shipping': {
         text: "Frais de port offert à partir de ",
-        field: Franco,
+        field: ("TSAFRANCO"/1000000),
         measure_unit: "\u20ac",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
