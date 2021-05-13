@@ -3,7 +3,7 @@ var Catalog = 'Catalog Buyers';
 var blocks_config = {
     'free_shipping': {
         text: "Frais de port offert à partir de ",
-        field: ("TSAFRANCO"/1000000),
+        field: "TSAFrancoCalcul",
         measure_unit: "\u20ac",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
