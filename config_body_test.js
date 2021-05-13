@@ -2,14 +2,14 @@ var Transaction = 'Commande FR';
 var Catalog = 'Catalog Buyers';
 var blocks_config = {
     'free_shipping': {
-        text: "Frais de port offert à partir de 2500",
+        text: "Frais de port offert à partir de ",
         field: "TSAFRANCO",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
-        text: "Choix Texte",
+        text: "Programme Fidélité :",
         field: "InternalID",
-        measure_unit: "points",
+        measure_unit: "Points",
         svg: "https://storage.pepperi.com/General/Icons/balance.svg"
     },
     'active-order':
