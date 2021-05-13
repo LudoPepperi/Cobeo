@@ -9,7 +9,7 @@ var blocks_config = {
     'account_balance': {
         text: "Choix Texte",
         field: "",
-        measure_unit: "unité",
+        measure_unit: "",
         svg: "https://storage.pepperi.com/General/Icons/balance.svg"
     },
     'active-order':
