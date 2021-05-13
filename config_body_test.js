@@ -4,12 +4,11 @@ var blocks_config = {
     'free_shipping': {
         text: "Frais de port offert à partir de ",
         field: "TSAFrancoCalcul",
-        measure_unit: "\u20ac",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
         text: "Programme Fidélité :",
-        field: "InternalID",
+        field: "TSAFrancoCalcul",
         measure_unit: "Points",
         svg: "https://storage.pepperi.com/General/Icons/balance.svg"
     },
