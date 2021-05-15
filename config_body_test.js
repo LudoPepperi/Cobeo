@@ -7,10 +7,10 @@ var blocks_config = {
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
-        text: "Programme Fidélité :",
-        field: "InternalID",
-        measure_unit: "Points",
-        svg: "https://storage.pepperi.com/General/Icons/balance.svg"
+        text: "Frais de port offert à partir de",
+        field: "TSAFRANCO",
+        measure_unit: "\u20ac",
+        svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'active-order':
     {
