@@ -8,7 +8,7 @@ var blocks_config = {
     },
     'account_balance': {
         text: "Frais de port offert à partir de",
-        field: "TSAFrancoCalcul",
+        field: "TSAFRANCO",
         measure_unit: "\u20ac",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
