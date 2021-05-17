@@ -7,7 +7,7 @@ const LeftMenu = [
 ];
 const RightMenu = [
 
-    {
+    /*{
         catalog: "Catalog Buyers",
         transaction: "Commande FR",
         title: "",
@@ -18,7 +18,7 @@ const RightMenu = [
     `,
         action: "setUUIDandNav",
         deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%227142a6f9-af48-4dba-a30d-85d89b2ed083%5C%22%7D%22'
-    },
+    },*/
     {
         catalog: "Catalog Buyers",
         transaction: "Commande FR",
@@ -31,12 +31,12 @@ const RightMenu = [
         action: "navigation",
         deepLink: 'list/all_activities'
     },
-    {
+    /*{
         activity: "Mes contacts",
         title: "Mes Contacts",
         action: "createNewActivity",
         deepLink: 'activities/details/{{UUID}}'
-    },
+    },*/
 
 
 ];
