@@ -219,7 +219,7 @@ var Promotions4 = [
         title: "Titre 4",
         buttonText: "Cliquez ici",
         link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%2202837f2a-b9c3-4bbd-a455-5c090d211c89%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2299207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
-        image: 'https://ludopepperi.github.io/Corbeo/Title (4).png'
+        image: 'https://ludopepperi.github.io/Corbeo/Title (4).jpg'
     }
 ]
 
