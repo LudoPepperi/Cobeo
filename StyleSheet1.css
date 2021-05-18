@@ -707,7 +707,9 @@ button {
 #categories {
     -ms-grid-row: auto;
     -ms-grid-column: auto;
-    grid-area: categories;
+    grid - template - areas: "categories""sidebar";
+    grid - template - columns: auto;
+    max - width: 100 %;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
@@ -753,12 +755,12 @@ button {
     background-size: cover;
     margin-bottom: 1rem;
     height: 12rem;
-    max-with: auto;        
+    max-width: auto;        
 }
 
     .promotion .gard-overlay {
         -ms-grid-column: 1;
-        max-with: 100%;
+        max-width: 100%;
         max-height: 100%;
         border-radius: 4px;
         position: absolute;
