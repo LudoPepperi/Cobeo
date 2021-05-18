@@ -681,6 +681,7 @@ button {
     -ms-grid-row-span: 2;
     -ms-grid-column: 2;
     grid-area: sidebar;
+    max-height: 448px;        
 }
 
 #carousal-content {
