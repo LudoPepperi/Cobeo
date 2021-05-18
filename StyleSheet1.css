@@ -787,6 +787,8 @@ button {
     .promotion div {
         -ms-flex-item-align: end;
         align-self: flex-end;
+                width: auto;
+                height: auto;
     }
 
 
