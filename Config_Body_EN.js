@@ -2,29 +2,29 @@ var Transaction = 'Sales Order DE';
 var Catalog = 'Catalog Buyers';
 var blocks_config = {
     'free_shipping': {
-        text: "Frais de port offert à partir de ",
+        text: "Free shipping from ",
         field: "TSAFrancoReel",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
-        text: "Frais de port offert à partir de",
+        text: "Free shipping from ",
         field: "TSAFRANCO",
         measure_unit: "\u20ac",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'active-order':
     {
-        name: "Commande en cours",
-        buttonText: "Retour Commande",
+        name: "Pending Order",
+        buttonText: "Order Return",
         table: [{
-            text: "Sous-Total",
+            text: "Sub-Total",
             field: "SubTotal",
             measure_unit: "\u20ac"
         }, {
-            text: "Total Quantit\u00e9",
+            text: "Quantities Total",
             field: "QuantitiesTotal"
         }, {
-            text: "Total HT",
+            text: "Total Sum",
             field: "GrandTotal",
             measure_unit: "\u20ac"
         }]
