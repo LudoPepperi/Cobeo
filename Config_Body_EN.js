@@ -1,4 +1,4 @@
-var Transaction = 'Sales Order DE';
+var Transaction = 'Sales Order EN';
 var Catalog = 'Catalog Buyers';
 var blocks_config = {
     'free_shipping': {
