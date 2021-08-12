@@ -7,14 +7,14 @@ var blocks_config = {
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
-        text: "Gratis verzending vanaf ",
+        text: "Free shipping from ",
         field: "TSAFRANCO",
         measure_unit: "\u20ac",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'active-order':
     {
-        name: "Back to the Order",
+        name: "Pending Order",
         buttonText: "Order Return",
         table: [{
             text: "Sub-Total",
