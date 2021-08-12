@@ -7,14 +7,14 @@ var blocks_config = {
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
-        text: "Free shipping from ",
+        text: "Gratis verzending vanaf ",
         field: "TSAFRANCO",
         measure_unit: "\u20ac",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'active-order':
     {
-        name: "Pending Order",
+        name: "Back to the Order",
         buttonText: "Order Return",
         table: [{
             text: "Sub-Total",
@@ -262,3 +262,4 @@ var CaruselData = [
     },
 ];
 customHomepage.test = "test"
+
