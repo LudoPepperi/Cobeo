@@ -1,5 +1,5 @@
 var Transaction = 'Sales Order EN';
-var Catalog = 'Catalog Buyers';
+var Catalog = 'Catalog B2B';
 var blocks_config = {
     'free_shipping': {
         text: "Free shipping from ",
