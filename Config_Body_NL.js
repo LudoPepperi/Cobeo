@@ -1,5 +1,5 @@
 var Transaction = 'Sales Order NL';
-var Catalog = 'Catalog Buyers';
+var Catalog = 'Catalog B2B';
 var blocks_config = {
     'free_shipping': {
         text: "Gratis verzending vanaf ",
