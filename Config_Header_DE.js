@@ -1,5 +1,5 @@
 var Transaction = 'Sales Order DE';
-var Catalog = 'Catalog Buyers';
+var Catalog = 'Catalog B2B';
 const logo = 'https://ludopepperi.github.io/Corbeo/CorbeoLogo.png';
 const LeftMenu = [
 
